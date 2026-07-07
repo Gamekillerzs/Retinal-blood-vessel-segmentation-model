@@ -77,4 +77,13 @@ These figures substantially outperform prior state-of-the-art methods evaluated 
 
 ## Citation
 
-If you use this work in your research, please cite:
+If you use this work in your research, please cite: 
+Soni, T., Gupta, S., Bharany, S., Rehman, A.U., Ghoniem, R.M. and Taye, B.M., 2025. Retinal vessel segmentation using multi scale feature attention with MobileNetV2 encoder.Scientific Reports, 15(1), p.43369.
+
+## License
+
+The associated paper is published under a **CC BY-NC-ND 4.0** license (non-commercial use, no derivatives, with attribution) — see the [publisher's license page](http://creativecommons.org/licenses/by-nc-nd/4.0/) for terms. You may want to add a separate license file for this code repository specifically (e.g., MIT, Apache 2.0) if you intend to allow reuse of the implementation itself, since the paper's ND (No Derivatives) terms apply to the article, not necessarily to code you choose to open-source separately. Clarify this explicitly if it matters for your use case.
+
+## Contact
+
+For questions or collaboration, feel free to open an issue on this repository.
